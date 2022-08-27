@@ -50,7 +50,5 @@ $carousel-dark-control-icon-filter:  invert(1) grayscale(100);
 </script>
 
 <style scoped>
-    #carouselExampleCaptions{
-        
-    }
+    
 </style>
