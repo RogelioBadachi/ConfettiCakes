@@ -46,7 +46,8 @@ export default {
   },
   data(){
     return {
-      text: "Welcome to Confetti Cakes!"
+      text: "Welcome to Confetti Cakes!", 
+      msg: "Hello World"
     }
   }
 }
